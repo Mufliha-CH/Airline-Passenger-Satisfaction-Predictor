@@ -67,13 +67,13 @@ Airline-Passenger-Satisfaction-Predictor/
 
 ## 🏠 Home Page
 
-![Home Page](home.png)
+![Home Page](Airline-Passenger-Satisfaction-Predictor/home.png)
 
 ---
 
 ## ✅ Prediction Result
 
-![Prediction Result](satisfied.png)
+![Prediction Result](Airline-Passenger-Satisfaction-Predictor/satisfied.png)
 
 ---
 
